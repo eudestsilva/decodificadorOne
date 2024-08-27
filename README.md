@@ -1,4 +1,4 @@
-# decodificadorOne
+# DecodificadorOne
 Decodificador com aprendizado da One
 
 Codificador e decodificador de texto em HTML, CSS e Javascript.
