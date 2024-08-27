@@ -33,8 +33,12 @@ conjunto de substituição na matriz:
 
 Como usar:
 
-1.	Digite o texto que deseja criptografar no campo de entrada.
-2.	Clique no botão "Criptografar" para converter o texto conforme as regras definidas.
-3.	Clique no botão "Descriptografar" para reverter o texto criptografado de volta ao texto original.
-4.	Para copiar o texto gerado, clique no botão "Copiar".
-5.	Para limpar o campo de saída, clique no botão "Limpar".
+1.	Abra o link: https://decodificador-one-eight.vercel.app/
+2.	Digite o texto que deseja criptografar no campo de entrada.
+3.	Clique no botão "Criptografar" para criptografar o texto conforme as regras.
+4.	Clique no botão "Descriptografar" para voltar o texto criptografado ao texto original.
+5.	Para copiar o texto gerado, clique no botão "Copiar".
+6.	Para limpar o campo de saída, clique no botão "Limpar".
+
+
+
